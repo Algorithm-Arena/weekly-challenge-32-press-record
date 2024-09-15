@@ -4,6 +4,16 @@
 
 <img width="506" alt="image" src="https://github.com/user-attachments/assets/822bf29e-58f3-456b-b63b-161d51bf60d2">
 
+### Winners:
+
+* The winner for $100 is @nicogs! Not only did he build a really useful tool, he also "dog fooded" it for the presentation video 🎥! https://github.com/Algorithm-Arena/weekly-challenge-32-press-record/issues/2
+
+https://github.com/user-attachments/assets/a8899cbc-220e-4a1c-abb4-935269596859
+
+* In second place for $60 is @Krayorn! This is a basic but effective audio recorder. https://github.com/Algorithm-Arena/weekly-challenge-32-press-record/issues/1
+
+https://github.com/user-attachments/assets/748f660d-72c4-422c-b296-b42d65a225e3
+
 ### Prizes:
 * Winner: $100
 * 2nd: $60
